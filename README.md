@@ -21,4 +21,4 @@ $ yarn run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
-Key: AIzaSyDZewq3OtE-855OqkpY654hWzt7AouqMG0
+Key: AIzaSyAZung1dLum-IZ8hHhQvJVCN1e2VO2kD9Q

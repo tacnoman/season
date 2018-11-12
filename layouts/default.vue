@@ -4,6 +4,16 @@
   </div>
 </template>
 
+<script>
+export default {
+  head: () => {
+    return {
+      title: 'Foi bonito foi'
+    }
+  }
+}
+</script>
+
 <style>
 html {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
